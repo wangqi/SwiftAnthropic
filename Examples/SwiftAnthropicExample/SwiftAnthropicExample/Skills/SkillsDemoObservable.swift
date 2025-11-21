@@ -54,7 +54,7 @@ import SwiftAnthropic
       do {
          // Example: Use the xlsx skill to create a spreadsheet
          let parameter = MessageParameter(
-            model: .claude37Sonnet,
+            model: .other("glm-4.6"),
             messages: [
                .init(
                   role: .user,
@@ -113,7 +113,7 @@ import SwiftAnthropic
 
       do {
          let parameter = MessageParameter(
-            model: .claude37Sonnet,
+            model: .other("glm-4.6"),
             messages: [
                .init(
                   role: .user,

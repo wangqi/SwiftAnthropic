@@ -51,7 +51,7 @@ import SwiftUI
       
       // Create parameters with thinking enabled
       let parameters = MessageParameter(
-         model: .claude37Sonnet,
+         model: .other("glm-4.6"),
          messages: messages,
          maxTokens: 20000,
          stream: true,
@@ -60,7 +60,7 @@ import SwiftUI
       
       // Count tokens (optional)
       let tokenCountParams = MessageTokenCountParameter(
-         model: .claude37Sonnet,
+         model: .other("glm-4.6"),
          messages: messages
       )
       

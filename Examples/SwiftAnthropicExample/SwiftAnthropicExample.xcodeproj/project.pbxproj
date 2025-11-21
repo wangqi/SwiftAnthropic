@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0DCD68B32C5B049A00CFDE84 /* ServiceSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DCD68B22C5B049A00CFDE84 /* ServiceSelectionView.swift */; };
 		0DCD68B52C5B057000CFDE84 /* AIProxyIntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DCD68B42C5B057000CFDE84 /* AIProxyIntroView.swift */; };
+		306F12322ED08C3100EDC106 /* SwiftAnthropic in Frameworks */ = {isa = PBXBuildFile; productRef = 306F12312ED08C3100EDC106 /* SwiftAnthropic */; };
 		7B3287D32B8B1260002C7FEF /* SwiftAnthropicExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3287D22B8B1260002C7FEF /* SwiftAnthropicExampleApp.swift */; };
 		7B3287D72B8B1261002C7FEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B3287D62B8B1261002C7FEF /* Assets.xcassets */; };
 		7B3287DA2B8B1261002C7FEF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B3287D92B8B1261002C7FEF /* Preview Assets.xcassets */; };
@@ -20,7 +21,6 @@
 		7B3288082B8B1750002C7FEF /* MessageDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3288072B8B1750002C7FEF /* MessageDemoView.swift */; };
 		7B32880A2B8B17A1002C7FEF /* MessageDemoObservable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3288092B8B17A1002C7FEF /* MessageDemoObservable.swift */; };
 		7B531D782B96FFFA0047DBAB /* PhotoPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B531D772B96FFFA0047DBAB /* PhotoPicker.swift */; };
-		7B73EA002D877D5900BF0CD1 /* SwiftAnthropic in Frameworks */ = {isa = PBXBuildFile; productRef = 7B73E9FF2D877D5900BF0CD1 /* SwiftAnthropic */; };
 		7BF304E02BBFBE1000671273 /* MessageFunctionCallingDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF304DE2BBFBE1000671273 /* MessageFunctionCallingDemoView.swift */; };
 		7BF304E12BBFBE1000671273 /* MessageFunctionCallingObservable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF304DF2BBFBE1000671273 /* MessageFunctionCallingObservable.swift */; };
 		7BFBABF52EADD8AE003D084C /* SkillsDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFBABF32EADD8AD003D084C /* SkillsDemoView.swift */; };
@@ -76,7 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B73EA002D877D5900BF0CD1 /* SwiftAnthropic in Frameworks */,
+				306F12322ED08C3100EDC106 /* SwiftAnthropic in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -208,7 +208,7 @@
 			);
 			name = SwiftAnthropicExample;
 			packageProductDependencies = (
-				7B73E9FF2D877D5900BF0CD1 /* SwiftAnthropic */,
+				306F12312ED08C3100EDC106 /* SwiftAnthropic */,
 			);
 			productName = SwiftAnthropicExample;
 			productReference = 7B3287CF2B8B1260002C7FEF /* SwiftAnthropicExample.app */;
@@ -283,7 +283,7 @@
 			);
 			mainGroup = 7B3287C62B8B1260002C7FEF;
 			packageReferences = (
-				7B73E9FE2D877D5900BF0CD1 /* XCLocalSwiftPackageReference "../../../SwiftAnthropic" */,
+				306F12302ED08C3100EDC106 /* XCLocalSwiftPackageReference "../../../SwiftAnthropic" */,
 			);
 			productRefGroup = 7B3287D02B8B1260002C7FEF /* Products */;
 			projectDirPath = "";
@@ -502,7 +502,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftAnthropicExample/Preview Content\"";
-				DEVELOPMENT_TEAM = CQ45U4X9K3;
+				DEVELOPMENT_TEAM = Y4G353X6Q5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -531,7 +531,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftAnthropicExample/Preview Content\"";
-				DEVELOPMENT_TEAM = CQ45U4X9K3;
+				DEVELOPMENT_TEAM = Y4G353X6Q5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -670,14 +670,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		7B73E9FE2D877D5900BF0CD1 /* XCLocalSwiftPackageReference "../../../SwiftAnthropic" */ = {
+		306F12302ED08C3100EDC106 /* XCLocalSwiftPackageReference "../../../SwiftAnthropic" */ = {
 			isa = XCLocalSwiftPackageReference;
 			relativePath = ../../../SwiftAnthropic;
 		};
 /* End XCLocalSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		7B73E9FF2D877D5900BF0CD1 /* SwiftAnthropic */ = {
+		306F12312ED08C3100EDC106 /* SwiftAnthropic */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = SwiftAnthropic;
 		};

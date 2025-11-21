@@ -102,7 +102,7 @@ struct MessageFunctionCallingDemoView: View {
                )
                
                let parameters = MessageParameter(
-                  model: .claude35Sonnet,
+                  model: .other("glm-4.6"),
                   messages: messages,
                   maxTokens: 1024, 
                   tools: [webSearchTool])

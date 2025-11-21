@@ -108,7 +108,7 @@ import SwiftUI
          
          // Create parameters
          let parameters = MessageParameter(
-            model: .claude35Sonnet,
+            model: .other("glm-4.6"),
             messages: [message],
             maxTokens: 1024
          )

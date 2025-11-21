@@ -119,14 +119,14 @@ struct MessageDemoView: View {
                   
                   prompt = ""
                   let parameters = MessageParameter(
-                     model: .claude35Sonnet,
+                     model: .other("glm-4.6"),
                      messages: messages,
                      maxTokens: 1024
                   )
                   
                   // Input Tokens count
-                  let messageTokenCountParameter = MessageTokenCountParameter(model: .claude35Sonnet, messages: messages)
-                  try await observable.countTokens(parameters: messageTokenCountParameter)
+                  //let messageTokenCountParameter = MessageTokenCountParameter(model: .claude35Sonnet, messages: messages)
+                  //try await observable.countTokens(parameters: messageTokenCountParameter)
                   
                   switch selectedSegment {
                   case .message:
