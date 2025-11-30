@@ -430,6 +430,8 @@ public struct MessageParameter: Encodable {
          case tool
          case auto
          case any
+         //wangqi modified 2025-11-30
+         case none
       }
       
       let type: ToolType
