@@ -1,0 +1,146 @@
+{
+  "" : {
+    "const-values" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SwiftAnthropic-primary.swiftconstvalues",
+    "dependencies" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SwiftAnthropic-primary.d",
+    "diagnostics" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SwiftAnthropic-primary.dia",
+    "emit-module-dependencies" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SwiftAnthropic-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SwiftAnthropic-primary-emit-module.dia",
+    "pch" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SwiftAnthropic-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SwiftAnthropic-primary.swiftdeps"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/AIProxy/AIProxyCertificatePinning.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AIProxyCertificatePinning.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AIProxyCertificatePinning.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AIProxyCertificatePinning.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/AIProxy/AIProxyService.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AIProxyService.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AIProxyService.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AIProxyService.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/AIProxy/Endpoint+AIProxy.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Endpoint+AIProxy.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Endpoint+AIProxy.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Endpoint+AIProxy.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Private/Network/AnthropicAPI.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicAPI.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicAPI.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicAPI.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Private/Network/Endpoint.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Endpoint.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Endpoint.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Endpoint.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Private/Networking/AsyncHTTPClientAdapter.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AsyncHTTPClientAdapter.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AsyncHTTPClientAdapter.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AsyncHTTPClientAdapter.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Private/Networking/HTTPClient.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/HTTPClient.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/HTTPClient.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/HTTPClient.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Private/Networking/URLSessionHTTPClientAdapter.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/URLSessionHTTPClientAdapter.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/URLSessionHTTPClientAdapter.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/URLSessionHTTPClientAdapter.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/Model.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Model.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Model.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/Model.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Message/JSONSchema.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/JSONSchema.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/JSONSchema.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/JSONSchema.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Message/MessageParameter+Web.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageParameter+Web.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageParameter+Web.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageParameter+Web.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Message/MessageParameter.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageParameter.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageParameter.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageParameter.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Message/MessageTokenCountParameter.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageTokenCountParameter.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageTokenCountParameter.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageTokenCountParameter.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Skill/SkillParameter.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SkillParameter.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SkillParameter.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SkillParameter.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/Parameters/TextCompletion/TextCompletionParameter.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionParameter.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionParameter.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionParameter.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/ErrorResponse.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/ErrorResponse.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/ErrorResponse.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/ErrorResponse.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Message/MessageInputTokens.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageInputTokens.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageInputTokens.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageInputTokens.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Message/MessageResponse+DynamicContent.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageResponse+DynamicContent.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageResponse+DynamicContent.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageResponse+DynamicContent.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Message/MessageResponse.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageResponse.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageResponse.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageResponse.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Message/MessageStreamResponse.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageStreamResponse.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageStreamResponse.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/MessageStreamResponse.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Skill/SkillResponse.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SkillResponse.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SkillResponse.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/SkillResponse.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/TextCompletion/TextCompletionResponse.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionResponse.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionResponse.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionResponse.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/TextCompletion/TextCompletionStreamResponse.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionStreamResponse.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionStreamResponse.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/TextCompletionStreamResponse.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Public/StreamHandler.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/StreamHandler.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/StreamHandler.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/StreamHandler.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Service/AnthropicService.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicService.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicService.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicService.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Service/AnthropicServiceFactory.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicServiceFactory.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicServiceFactory.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/AnthropicServiceFactory.o"
+  },
+  "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/Sources/Anthropic/Service/DefaultAnthropicService.swift" : {
+    "index-unit-output-path" : "/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/DefaultAnthropicService.o",
+    "llvm-bc" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/DefaultAnthropicService.bc",
+    "object" : "/Users/wangqi/disk/projects/ai/ios/aiassistant/thirdparty/SwiftAnthropic/build/SwiftAnthropic.build/Release-iphoneos/SwiftAnthropic.build/Objects-normal/arm64/DefaultAnthropicService.o"
+  }
+}

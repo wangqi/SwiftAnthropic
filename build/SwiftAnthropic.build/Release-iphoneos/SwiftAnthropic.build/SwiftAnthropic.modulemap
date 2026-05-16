@@ -1,0 +1,4 @@
+module SwiftAnthropic {
+header "SwiftAnthropic-Swift.h"
+export *
+}
